@@ -1,1 +1,1 @@
-# ChristiansFirstGodotProject
+# CppGodotGameTemplate
